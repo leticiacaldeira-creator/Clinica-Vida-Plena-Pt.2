@@ -58,3 +58,20 @@ h1, h2 {
 #banner-home {
     background-image: url('https://picsum.photos/800/300');
 }
+input {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+select {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+button {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 8px;
+}
