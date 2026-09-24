@@ -11,7 +11,7 @@ body {
 }
 
 header, footer {
-    background-color: #9507f4;
+    background-color: #04a8f4;
     color: #ffffff;
     padding: 20px;
 }
@@ -33,7 +33,7 @@ h1, h2 {
 }
 .aviso {
     background-color: #e3f2fd;
-    border-left: 4px solid #410cee;
+    border-left: 4px solid #04eff3;
     padding: 10px;
     margin: 15px 0;
 }
@@ -46,7 +46,7 @@ h1, h2 {
 }
 
 .botao-primario {
-    background-color: #bd0df3;
+    background-color: #0d9bf3;
     color: #ffffff;
 }
 
